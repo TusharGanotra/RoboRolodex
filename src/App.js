@@ -40,37 +40,6 @@ setsearchfield(searchfieldstring);
   )
 };
 
-// {class App extends Component {
-//   constructor(){
-//     super();
-//     this.state = {
-//       Robots : [],
-//       searchfield  : ''
-// };
-// };
-//
-// componentDidMount(){
-//
-// }
-//
-//
-//
-//   render() {
-//
-//
-//     return (
-//       <div className="App">
-//       <h1 className = "app-title">ROBO ROLODEX</h1>
-// <SearchBox className = {"Search-box"} placeholder = {"Search Robots"} onchangehandler = {this.onSearchChange} />
-//
-//       < CardList robots = {filteredrobots}/>
-//     <p>@tusharganotra</p>
-//
-//       </div>
-//     );
-//   };
-//
-// }
-// }
+
 
 export default App;
